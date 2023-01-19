@@ -1,0 +1,41 @@
+
+.car-container{
+    border: 2px solid goldenrod;
+    border-radius: 10px;
+    padding: 10px;
+    position: relative;
+}
+.car-container img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 20px;
+    /* border: 2px solid red; */
+    /* margin: 10px; */
+    padding: 40px;
+}
+.car-container h4{
+    margin: 5px 0;
+}
+.car-container p{
+    margin: 0;
+    /* margin-bottom: 20px; */
+}
+.car-info{
+    margin-bottom: 50px;
+}
+.buy-btn {
+    width: 93%;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 0px;
+    background-color: #e1d9d942;
+    border: none;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    
+  }
+  .buy-btn:hover{
+    background-color: #c5bbbb42;
+  }

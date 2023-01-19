@@ -1,0 +1,20 @@
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 80px;
+    background-color: #f4f4f4;
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+    
+}
+.header-item a{
+    text-decoration: none;
+    margin-left: 20px;
+    font-size: 20px;
+    
+}
+.header-item a:hover{
+    color: rgb(99, 136, 99);
+}

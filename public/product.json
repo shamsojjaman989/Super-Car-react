@@ -1,0 +1,110 @@
+[
+
+    {
+        "id": "4930a-43239-b342",
+        "category": "Super-Car",
+        "name": "Rolsroyes-V1000",
+        "seller": "Rolsroyes",
+        "price": 1800,
+        "stock": 10,
+        "ratings": 5,
+        "ratingsCount": 3725,
+        "img": "https://images.unsplash.com/photo-1647200528165-12fc669c247e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHJvbGxzJTIwcm95Y2UlMjBnaG9zdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "10002-a553-g5593",
+        "category": "Super-Car",
+        "name": "Lembergini-gp-9",
+        "seller": "Lembergini",
+        "price": 1390,
+        "stock": 5,
+        "ratings": 4.5,
+        "ratingsCount": 2025,
+        "img": "https://images.unsplash.com/photo-1612076548481-941cc0dca9d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTAxfHxzdXBlcmNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "9003a-j9332-377s",
+        "category": "Super-Car",
+        "name": "GT-g-3300",
+        "seller": "GT",
+        "price": 1060,
+        "stock": 7,
+        "ratings": 4,
+        "ratingsCount": 1025,
+        "img": "https://images.unsplash.com/photo-1570374910698-6db3d787e6fb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTE5fHxzdXBlcmNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "00434-c83892-7732",
+        "category": "Super-Car",
+        "name": "Mercidis-Bens-5993",
+        "seller": "Mercidis",
+        "price": 1260,
+        "stock": 19,
+        "ratings": 5,
+        "ratingsCount": 4025,
+        "img": "https://images.unsplash.com/photo-1546518071-fddcdda7580a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTI5fHxzdXBlcmNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+      
+    {
+        "id": "4938s-3832-683s-44",
+        "category": "Super-Car",
+        "name": "Mercidis-sss-5553",
+        "seller": "Mercidis",
+        "price": 1123,
+        "stock": 3,
+        "ratings": 3,
+        "ratingsCount": 625,
+        "img": "https://images.unsplash.com/photo-1555598508-ad77e834531d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ0fHxzdXBlcmNhcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "8843-y4742-5539",
+        "category": "Jeepsy",
+        "name": "Mahindro-293",
+        "seller": "Mahindro",
+        "price": 893,
+        "stock": 6,
+        "ratings": 4,
+        "ratingsCount": 987,
+        "img": "https://images.unsplash.com/photo-1579097647275-16b002cced9e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8amVlcHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+      
+    {
+        "id": "33747-3335-g3384",
+        "category": "Jeepsy",
+        "name": "GT-492",
+        "seller": "GT",
+        "price": 900,
+        "stock": 9,
+        "ratings": 4.5,
+        "ratingsCount": 767,
+        "img": "https://images.unsplash.com/photo-1591738802175-709fedef8288?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGplZXB8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      },
+    {
+        "id": "84632-b8836-b335",
+        "category": "Super-Car",
+        "name": "Bugatti-bt-374",
+        "seller": "Bugatti",
+        "price": 1500,
+        "stock": 3,
+        "ratings": 5,
+        "ratingsCount": 1767,
+        "img": "https://images.unsplash.com/photo-1543142706-872c378745ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjl8fGJ1Z2F0dGl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "shipping": 0,
+        "quantity": 0
+      }
+      
+]
