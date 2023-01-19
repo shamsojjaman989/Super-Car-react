@@ -3,6 +3,7 @@ import './Shop.css'
 import { useState } from 'react';
 import { useEffect } from 'react';
 import Car from '../Car/Car';
+import Cart from '../Cart/Cart';
 
 const Shop = () => {
     const [cars, setCars] = useState([]);
@@ -14,15 +15,13 @@ const Shop = () => {
         .then(data => setCars(data));
     },[])
     // console.log(cars);
-const [carDetails,setCarDetails]= useState([])
+
     const addToBuy = (car)=>{
         const newCart = [...cart, car]
         setCart(newCart);
 
         console.log(newCart)
-        const carDetails = JSON.stringify(newCart);
-        console.log("============",carDetails)
-       setCarDetails(carDetails)
+        
     }
     return (
         <div className='shop-container'>
@@ -37,11 +36,7 @@ const [carDetails,setCarDetails]= useState([])
             </div>
             {/* aside  */}
             <div className='aside-container'>
-                <h3>Selected Items</h3>
-                {/* <br /> */}
-                <br />
-                <p>Items: {cart.length}</p>
-                <p>Name {carDetails.name}</p>
+                <Cart cart={cart}></Cart>
                 
             </div>
         </div>
