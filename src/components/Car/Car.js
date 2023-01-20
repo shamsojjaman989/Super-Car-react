@@ -3,7 +3,7 @@ import './Car.css'
 
 const Car = (props) => {
     const {addToBuy, car} = props
-    const {id,img, name, seller,price,ratings,category} =car;
+    const {id, img, name, seller, price, ratings, category} =car;
     // console.log(props.car);
     return (
         <div className='car-container'>
@@ -14,7 +14,10 @@ const Car = (props) => {
             <p>Category: {category}</p>
             <p>Price: ${price}</p>
             </div>
-            <button onClick={()=>addToBuy(car)} className='buy-btn'>Buy Now</button>
+            <button onClick={()=>addToBuy(car)} className='buy-btn'>
+                Buy Now
+                <i className="fa-solid fa-cart-arrow-down"></i>
+            </button>
         </div>
     );
 };

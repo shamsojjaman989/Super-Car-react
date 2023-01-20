@@ -9,6 +9,18 @@
     z-index: 9999;
     
 }
+.logo{
+    width: 80px;
+    color: red;
+    margin-right: 10px;
+}
+.header-logo{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    /* font-family: 'Dosis', sans-serif; */
+    font-family: 'Style Script', cursive;
+}
 .header-item a{
     text-decoration: none;
     margin-left: 20px;
